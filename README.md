@@ -1,5 +1,5 @@
 # FriendFinder
-![Friend Finder](/app/public/images/logo.png | width=%50)
+![Friend Finder](/app/public/images/logo.png | width=50)
 
 ## Description
 
