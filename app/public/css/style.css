@@ -1,0 +1,32 @@
+.title{
+    width:30%;
+}
+
+.titleSmall{
+    max-height: 100px;
+}
+
+.jumbotron{
+    background-color: #0000004b;
+    color:white;
+}
+
+.container{
+    color:black;
+}
+
+.chosen-container{
+    color: black !important;
+}
+
+.fas{
+    color: whitesmoke;
+}
+
+a:visited{
+    color: blueviolet;
+}
+
+a{
+    color: black;
+}
