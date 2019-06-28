@@ -9,7 +9,7 @@ This full-stack site will take in results from your users' surveys, then compare
 
 You can click on the following link to test the project, you can also find this link at the bottom of this document.
 
-##### *[Friend Finder App](https://friend-finder-hongongo.herokuapp.com/)*
+#### *[Friend Finder App](https://friend-finder-hongongo.herokuapp.com/)*
 * Click the button to go to the survey
 * Fill your name and a URL of the photo you would like to display. 
     * Here is a dummy url you can use in case you dont have one (https://firebasestorage.googleapis.com/v0/b/portfolio-f5af3.appspot.com/o/FriendFinder%2Ffriends%2Fmaguillo%20del%20tiempo.png?alt=media&token=11bec338-bdf5-4c82-aada-8a31779c2118 ).
